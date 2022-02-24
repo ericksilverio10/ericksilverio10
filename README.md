@@ -1,5 +1,5 @@
 <h1 align="center"> Hello👋, my name is Erick</h1>
-<div style="display: inline_block" align="center>
+<div align="center">
     <a target="_blank" href="https://github.com/eduardo-moro/eduardo-moro/blob/main/LEIAME.md"><img src="https://img.shields.io/badge/PT--BR-2a9134?&style=for-the-badge&logo=about_me&logoColor=yellow"/></a>
     <a target="_blank" href="https://api.whatsapp.com/send?phone=5511941822723&text=Hey%20Erick%2C%20I%20came%20by%20your%20github"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
    <a href="https://www.youtube.com/channel/UCzlTuh7t7W7HQXwJ_D_Kj_w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -24,5 +24,9 @@
 
 </div>
 
-![Snake animation](https://github.com/ericksilverio10)
-
+<div align="center">
+    
+ ![Snake animation](https://github.com/ericksilverio10/ericksilverio10/blob/output/github-contribution-grid-snake.svg)
+    
+</div>
+</div>
