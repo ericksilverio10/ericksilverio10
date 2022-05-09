@@ -21,6 +21,8 @@
   <img align="center" alt="Erick-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">                         
   <img align="center" alt="Erick-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Erick-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Erick-PHP" height="40" width="50" src="https://github.com/jmnote/z-icons/blob/master/svg/php.svg">
+  <img align="center" alt="Erick-Bootstrap" height="40" width="50" src="https://github.com/jmnote/z-icons/blob/master/svg/bootstrap.svg">
 
 </div>
 
