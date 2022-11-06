@@ -18,10 +18,14 @@
 
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Erick-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Erick-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">                         
+  <img align="center" alt="Erick-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">                  
+  <img align="center" alt="Erick-Js" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
+  <img align="center" alt="Erick-Js" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> 
   <img align="center" alt="Erick-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Erick-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Erick-PHP" height="40" width="50" src="https://github.com/jmnote/z-icons/blob/master/svg/php.svg">
+  <img align="center" alt="Erick-PHP" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+  <img align="center" alt="Erick-PHP" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
   <img align="center" alt="Erick-Bootstrap" height="40" width="50" src="https://github.com/jmnote/z-icons/blob/master/svg/bootstrap.svg">
 
 </div>
