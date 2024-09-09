@@ -7,8 +7,8 @@
    <a target="_blank" href="https://www.linkedin.com/in/erick-silverio-8a48a5221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  <a href="mailto:erick258096@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<h4 align="center">Computer Engineering Student</h4>
-<p align="center">I'm currently on 2nd year of "Computer Engineering" at UMESP - Universidade Metodista de São Paulo</p>
+<h4 align="center">Software Engineer (3 - 4 Years Experience)</h4>
+<p align="center">Working at @Itaú</p>
 
 <div align="center">
   <a href="https://github.com/ericksilverio10">
